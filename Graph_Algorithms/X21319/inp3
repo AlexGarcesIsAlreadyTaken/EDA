@@ -1,7 +1,0 @@
-OUTPUT o2 END
-INPUT a END
-OR o2 a c
-NOT c a
-END
-F
-T
